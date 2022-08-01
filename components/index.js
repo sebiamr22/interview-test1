@@ -30,6 +30,9 @@ import Time from './Time';
 import Toaster from './Toaster';
 import Tooltip from './Tooltip';
 import withRouter from './withRouter';
+import RoundedImg from './RoundedImg';
+import UserButton from './UserButton';
+import UserField from './UserField';
 
 export {
   AppHead,
@@ -58,8 +61,11 @@ export {
   ProfileLoading,
   ProfileMenu,
   ProfileSuccess,
+  RoundedImg,
   ShowMore,
   Spinner,
+  UserButton,
+  UserField,
   Time,
   Toaster,
   Tooltip,
